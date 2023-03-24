@@ -20,8 +20,6 @@ Extra: Use as many different assertions as possible.
 
 <li>Classes, Attributes, Methods, Encapsulation, Inheritance, Polymorphism;</li>
 
-<li>Lists ans Arraylist ;</li>
-
 <li> SOLID principles' - Single Responsibility. </li>
 
 <li> Unit testing, Junit, Mocks and mockito.</li>
